@@ -4,6 +4,7 @@ import SearchBar from "../components/SearchBar";
 import Category from "../components/Category";
 import Banner from "../components/Banner";
 import HotDeals from "../components/HotDeals";
+import TodaysHotDealsProducts from "../components/TodaysHotDeals";
 
 const Home: NextPage = () => {
   return (
@@ -15,6 +16,7 @@ const Home: NextPage = () => {
         <Banner />
         <HotDeals />
       </div>
+      <TodaysHotDealsProducts></TodaysHotDealsProducts>
     </div>
   );
 };

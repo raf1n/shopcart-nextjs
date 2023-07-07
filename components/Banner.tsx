@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="w-full text-[96px] leading-[100px] inline-block">
+    <div className="w-full text-[86px] leading-[100px] inline-block">
       <span>
         <span className="font-light">We picked some</span>
         <b className="text-sandybrown">{` `}</b>
