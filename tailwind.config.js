@@ -10,9 +10,9 @@ module.exports = {
         white: "#fff",
         darkslategray: "#404040",
         gray: {
-          "100": "#808080",
-          "200": "rgba(128, 128, 128, 0.5)",
-          "300": "rgba(129, 129, 129, 0.5)",
+          100: "#808080",
+          200: "rgba(128, 128, 128, 0.5)",
+          300: "rgba(129, 129, 129, 0.5)",
         },
         sandybrown: "#ffae5d",
         black: "#000",
@@ -27,11 +27,6 @@ module.exports = {
         xl: "20px",
         "3xs": "10px",
       },
-    },
-    fontSize: {
-      base: "16px",
-      "13xl": "32px",
-      "5xl": "24px",
     },
   },
   corePlugins: {
