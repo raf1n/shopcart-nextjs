@@ -30,7 +30,7 @@ const TodaysHotDealsProducts = () => {
     getTodaysHotDealsProducts();
   }, []);
   return (
-    <div className="w-full md:w-[calc(100% - 1042px)] h-auto md:h-[760px] mt-10">
+    <div className="w-full md:w-[calc(100% - 1042px)] h-auto md:h-[760px] m-10 mb-36">
       <div className="w-full box-border flex flex-row py-2.5 px-5 items-center justify-start text-4xl md:text-5xl border-b-[2px] border-dashed border-sandybrown">
         <div className="font-semibold">Today's Hot Deals</div>
       </div>
